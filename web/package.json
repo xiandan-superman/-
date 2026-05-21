@@ -1,0 +1,12 @@
+{
+  "name": "cohort-summary-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public Excel cohort summary dashboard",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "license": "UNLICENSED"
+}
